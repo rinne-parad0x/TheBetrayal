@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheBetrayal", "TheBetrayal\TheBetrayal.vcxproj", "{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Debug|x64.ActiveCfg = Debug|x64
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Debug|x64.Build.0 = Debug|x64
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Debug|x86.Build.0 = Debug|Win32
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Release|x64.ActiveCfg = Release|x64
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Release|x64.Build.0 = Release|x64
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Release|x86.ActiveCfg = Release|Win32
+		{ECDBA793-B9AE-4F13-BCE4-F92B5D4CA095}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D890749C-8F15-4E1E-90BD-F7DB0D7890F9}
+	EndGlobalSection
+EndGlobal
